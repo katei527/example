@@ -6,10 +6,13 @@ h1{
 }
 h3{
     color:yellow
+    
 }
-
+ul{
+    list-style-type: square;
+}
 img{
     height: 200px;
     width: 200px;
-    border-radius: 1000%;
+    border-radius: 50%;
 }
